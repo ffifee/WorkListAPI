@@ -8,7 +8,7 @@ API je razvijen kao backend koji omogućava korisnicima registraciju, login i kr
 Mogućnosti:
 1. Registrirati korisnički račun kao korisnik ili admin.
 2. Ulogiravanje u aplikaciju, prilikom login-a korisnik dobije token (koristi HSA256 algoritam) i token vrijedi određeno vrijeme.
-3. Token se koristi kao provjera ispravnosti između klijenta i servera.
+3. Token se koristi kao autentikacija između klijenta i servera.
 4. Kreiranje Work listi
 5. Editiranje Work listi
 6. Brisanje work listi
